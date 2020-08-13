@@ -15,6 +15,7 @@ module IntacctRuby
       delete
       create_invoice
       update_invoice
+      update_bill
       create_supdoc
     ).freeze
 
